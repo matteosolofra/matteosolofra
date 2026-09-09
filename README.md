@@ -10,9 +10,9 @@
 
 ---
 
-## 📜 Certificados
+## 📜 Certificações
 
-[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-742774?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/matteosolofra-8983/credentials/b8f93ca4656f0041?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+[![PL-900](https://img.shields.io/badge/PL--900-Power_Platform_Fundamentals-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/matteosolofra-8983/credentials/b8f93ca4656f0041?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ---
 
